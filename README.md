@@ -54,10 +54,9 @@ Para rodar este projeto, você precisará ter o Java, Docker e MongoDB instalado
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [LINK_DO_SEU_REPOSITORIO]
+    git clone (https://github.com/xDGxx/url-shortener/tree/main)
     cd url-shortener
     ```
-    *(Substitua `[LINK_DO_SEU_REPOSITORIO]` pelo link real do seu repositório Git, ex: `https://github.com/seu-usuario/seu-projeto.git`)*
 
 2.  **Configure o MongoDB:**
     * Garanta que uma instância do MongoDB esteja rodando. Você pode usar o Docker para isso:
