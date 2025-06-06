@@ -84,7 +84,7 @@ Você pode usar o **Insomnia** (ou Postman) para testar os endpoints:
     * **Body (JSON):**
         ```json
         {
-          "url": "[https://www.example.com/sua/longa/url/que/voce/quer/encurtar](https://www.example.com/sua/longa/url/que/voce/quer/encurtar)"
+          "url": "[https://www.example.com/sua/url/url/que/voce/quer/encurtar](https://www.example.com/sua/longa/url/que/voce/quer/encurtar)"
         }
         ```
     * Você receberá uma resposta com a URL encurtada, por exemplo:
