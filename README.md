@@ -30,6 +30,7 @@ As seguintes tecnologias e ferramentas foram empregadas no desenvolvimento deste
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="Apache" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="60" height="60"/>
 </p>
 
@@ -38,6 +39,7 @@ As seguintes tecnologias e ferramentas foram empregadas no desenvolvimento deste
 * **MongoDB**: Banco de dados NoSQL utilizado para armazenar as URLs originais e seus respectivos códigos curtos.
 * **Docker**: Usado para empacotar a aplicação e suas dependências, facilitando a execução em diferentes ambientes.
 * **Apache**: Servidor web (muitas vezes usado junto com aplicações Java, embora o Spring Boot já venha com um servidor embutido, Apache pode ser usado como proxy reverso, por exemplo).
+* **Maven**: Gerenciamento de builds do projeto
 * **Insomnia**: Ferramenta utilizada para testar as requisições HTTP da API (como enviar URLs para encurtar e testar o redirecionamento).
 
 ## 📂 Estrutura do Projeto
